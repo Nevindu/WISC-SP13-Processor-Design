@@ -1,0 +1,38 @@
+Information: Updating graph... (UID-83)
+Warning: Design 'proc' contains 2 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+ 
+****************************************
+Report : reference
+Design : proc
+Version: Q-2019.12-SP3
+Date   : Tue Apr 13 07:25:11 2021
+****************************************
+
+Attributes:
+    b - black box (unknown)
+   bo - allows boundary optimization
+    d - dont_touch
+   mo - map_only
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    s - synthetic operator
+    u - contains unmapped logic
+
+Reference          Library       Unit Area   Count    Total Area   Attributes
+-----------------------------------------------------------------------------
+BUFX2              gscl45nm       2.346500       5     11.732500  
+INVX1              gscl45nm       1.407900       5      7.039500  
+INVX2              gscl45nm       1.877200       1      1.877200  
+decode_stage                   4964.724603       1   4964.724603  h, n
+execute_stage                  4127.962731       1   4127.962731  h
+exmem_pipeline                  523.269488       1    523.269488  h, n
+fetch_stage                   14881.033421       1  14881.033421  h, n
+idex_pipeline                  1564.176863       1   1564.176863  h, n
+ifid_pipeline                   675.322687       1    675.322687  h, n
+memory_stage                  13182.167473       1  13182.167473  h, n
+memwb_pipeline                  439.734089       1    439.734089  h, n
+write_stage                     111.224100       1    111.224100  h
+-----------------------------------------------------------------------------
+Total 12 references                                 40490.264655
+1

@@ -1,0 +1,17 @@
+Folder structure: Correct
+
+Verilog Code -
+  Filename convention:  Passed
+  Verilog rules check:  Passed
+  Code compilation:     Passed
+  Executing add_0.asm:  Passed
+  Executing bltz_0.asm: Passed
+
+Testcase Results -
+  Instruction tests:    Passed
+  Other tests:          Passed
+
+Synthesis Output -
+  Synthesized .syn.v:   Passed
+  Synthesis no 0 area:  FAILED (1 violations)
+

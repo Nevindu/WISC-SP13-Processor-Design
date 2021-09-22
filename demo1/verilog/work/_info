@@ -1,0 +1,770 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+valu
+!s110 1616570619
+!i10b 1
+!s100 YaiZF9Ec<E7fk1^R^hRG;0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im2E6GdMo]X1gZDZ;?n8E@0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog
+w1616570608
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu.v
+!i122 51
+L0 1 96
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1616570619.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+valu_hier
+Z6 !s110 1616548383
+!i10b 1
+!s100 eWhY<C5o4n3]O[G?2Q:e<3
+R0
+Ij<0lJM[TOUhEE8jG]3Q5`0
+R1
+R2
+Z7 w1616548290
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier.v
+!i122 1
+Z8 L0 1 42
+R3
+r1
+!s85 0
+31
+Z9 !s108 1616548383.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier.v|
+!i113 1
+R4
+R5
+valu_hier_bench
+R6
+!i10b 1
+!s100 D]701c_zgaS6@J3nSXQZ43
+R0
+IO=m`QCSG4OlJ2nBBfRg060
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier_bench.v
+!i122 2
+L0 1 150
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier_bench.v|
+!i113 1
+R4
+R5
+vcla_4
+Z10 !s110 1616548384
+!i10b 1
+!s100 3zDcnQXK@VFXRiUIET:Lz1
+R0
+IzfL5OcF50b>^mL_]hc?GN2
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/cla_4.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/cla_4.v
+!i122 3
+Z11 L0 1 31
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/cla_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/cla_4.v|
+!i113 1
+R4
+R5
+vclkrst
+R10
+!i10b 1
+!s100 Eb@RK46?g=V]XMJ3JbgOG3
+R0
+ISRVAcoM`jFIN7lY`72o@h3
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/clkrst.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/clkrst.v
+!i122 4
+L0 12 35
+R3
+r1
+!s85 0
+31
+Z12 !s108 1616548384.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/clkrst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/clkrst.v|
+!i113 1
+R4
+R5
+vcontrol
+!s110 1616620409
+!i10b 1
+!s100 mPT_M6ZdlfS6Ll8<jemdO2
+R0
+I]Kif;Emib7W<iT>dT@P671
+R1
+R2
+w1616620399
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/control.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/control.v
+!i122 68
+L0 1 316
+R3
+r1
+!s85 0
+31
+!s108 1616620409.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/control.v|
+!i113 1
+R4
+R5
+vdecode_stage
+!s110 1616570020
+!i10b 1
+!s100 HJZ9H2]4Oi1l3D;iKOEU^3
+R0
+I:e`Y@K:TS16lLnLDGfMoe1
+R1
+R2
+w1616570013
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/decode_stage.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/decode_stage.v
+!i122 50
+L0 1 45
+R3
+r1
+!s85 0
+31
+!s108 1616570020.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/decode_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/decode_stage.v|
+!i113 1
+R4
+R5
+vdff
+R10
+!i10b 1
+!s100 9ioan2i;Y:Fi:S61Uzibo0
+R0
+I2E1bOi5Y=:lIV<41U;W2j2
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/dff.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/dff.v
+!i122 7
+L0 6 16
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/dff.v|
+!i113 1
+R4
+R5
+vexecute_stage
+!s110 1616594118
+!i10b 1
+!s100 L9We]mj9PR3Q[9AU3Pe^L1
+R0
+IQ`MXzL;HOeJKDgMTobC>B3
+R1
+R2
+w1616594110
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/execute_stage.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/execute_stage.v
+!i122 63
+L0 1 61
+R3
+r1
+!s85 0
+31
+!s108 1616594117.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/execute_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/execute_stage.v|
+!i113 1
+R4
+R5
+vfetch_stage
+!s110 1616567127
+!i10b 1
+!s100 =F:H11^1SSNbSCDz0e=T@1
+R0
+I5Yifk]?L@SB5^8MQSniE;2
+R1
+R2
+w1616567118
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fetch_stage.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fetch_stage.v
+!i122 44
+L0 1 26
+R3
+r1
+!s85 0
+31
+!s108 1616567126.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fetch_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fetch_stage.v|
+!i113 1
+R4
+R5
+vfulladder
+!s110 1616963522
+!i10b 1
+!s100 ZULmVLZQ;]k5=RB0idB?F3
+R0
+IIXI3ZLN_]N?D_hzP;@MHL1
+R1
+R2
+w1616963398
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder.v
+!i122 70
+L0 1 11
+R3
+r1
+!s85 0
+31
+!s108 1616963522.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder.v|
+!i113 1
+R4
+R5
+vfulladder16
+Z13 !s110 1616548386
+!i10b 1
+!s100 7T09`iROXnS29W8WodJ9Y1
+R0
+I0kLM8F:zgl[b]?CH?hhEe3
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder16.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder16.v
+!i122 13
+L0 1 14
+R3
+r1
+!s85 0
+31
+Z14 !s108 1616548386.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder16.v|
+!i113 1
+R4
+R5
+vfulladder4
+R13
+!i10b 1
+!s100 :X0Ed^zjF;[m34[NC[ab`3
+R0
+IZ[g1M=`e[MkE5k7^;KBzX2
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder4.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder4.v
+!i122 12
+L0 1 17
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder4.v|
+!i113 1
+R4
+R5
+vfulladder_bench
+!s110 1616548385
+!i10b 1
+!s100 A5=_EIVdVzRnB:01EIIDA2
+R0
+I8m6cjM2VMbKaIH7EWCW970
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder_bench.v
+!i122 11
+L0 1 39
+R3
+r1
+!s85 0
+31
+!s108 1616548385.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder_bench.v|
+!i113 1
+R4
+R5
+vmemory2c
+!s110 1616618966
+!i10b 1
+!s100 7]=]CjR8eF^Aio=92@Q603
+R0
+I2YgiO^TA0diJnS56JfkNe0
+R1
+R2
+w1616618958
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.v
+!i122 67
+L0 35 59
+R3
+r1
+!s85 0
+31
+!s108 1616618966.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.v|
+!i113 1
+R4
+R5
+vmemory_stage
+!s110 1616963526
+!i10b 1
+!s100 8NnV7QcU8fDBl;55KEFVh2
+R0
+IVX?[DE@Y:JXXo@3YanMQV0
+R1
+R2
+w1616961105
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory_stage.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory_stage.v
+!i122 71
+L0 1 59
+R3
+r1
+!s85 0
+31
+!s108 1616963525.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory_stage.v|
+!i113 1
+R4
+R5
+vmux2_1
+!s110 1616966196
+!i10b 1
+!s100 Q6]RT_XG=WYgzNOCTQa@;2
+R0
+IeBRo83`[oJSVIdAhgg?_d2
+R1
+R2
+w1614033171
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/mux2_1.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/mux2_1.v
+!i122 72
+L0 1 8
+R3
+r1
+!s85 0
+31
+!s108 1616966196.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/mux2_1.v|
+!i113 1
+R4
+R5
+vonebit_fulladder_bench
+Z15 !s110 1616548387
+!i10b 1
+!s100 CET1d;cl?Q;bKn4oZJNl11
+R0
+IY[OeEhTLYdXZhN`:@<g8=1
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/onebit_fulladder_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/onebit_fulladder_bench.v
+!i122 18
+R8
+R3
+r1
+!s85 0
+31
+Z16 !s108 1616548387.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/onebit_fulladder_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/onebit_fulladder_bench.v|
+!i113 1
+R4
+R5
+vpfa
+R15
+!i10b 1
+!s100 SA[nb2zQ[2T[Wg4>dZH853
+R0
+I7zFedjbizjG]16GZ`<i5h0
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/pfa.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/pfa.v
+!i122 19
+L0 1 13
+R3
+r1
+!s85 0
+31
+R16
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/pfa.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/pfa.v|
+!i113 1
+R4
+R5
+vproc
+!s110 1616550603
+!i10b 1
+!s100 S@>h?5]15g7^EbH3jENOL0
+R0
+I^0ej862WRZQjn<ZZZ==b43
+R1
+R2
+w1616550587
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc.v
+!i122 36
+L0 4 198
+R3
+r1
+!s85 0
+31
+!s108 1616550602.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc.v|
+!i113 1
+R4
+R5
+vproc_hier
+Z17 !s110 1616548388
+!i10b 1
+!s100 Q]aK6f6AMzka6chAi]1Hj3
+R0
+I;IIT=10]2;<O4BP[bHnFn2
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier.v
+!i122 21
+L0 6 24
+R3
+r1
+!s85 0
+31
+Z18 !s108 1616548388.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier.v|
+!i113 1
+R4
+R5
+vproc_hier_bench
+R17
+!i10b 1
+!s100 2F_CY[^2]0fTMUKe2VWg_3
+R0
+IZW4a3lSaiMKD^83c[j=Xj0
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier_bench.v
+!i122 22
+L0 4 154
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier_bench.v|
+!i113 1
+R4
+R5
+vregister
+R17
+!i10b 1
+!s100 `[jPaRmYgS33WaS>W4z1Z2
+R0
+I[fiB7P_LA7HRlKCEokh_c0
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/register.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/register.v
+!i122 23
+L0 1 15
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/register.v|
+!i113 1
+R4
+R5
+vrf
+!s110 1616594318
+!i10b 1
+!s100 QR7R^<jdm1e>o[4YU90=X2
+R0
+IO1dRQCA>eL?HBPokY2RKH3
+R1
+R2
+w1616591810
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf.v
+!i122 64
+L0 4 84
+R3
+r1
+!s85 0
+31
+!s108 1616594315.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf.v|
+!i113 1
+R4
+R5
+vrf_bench
+Z19 !s110 1616548389
+!i10b 1
+!s100 4hbFZ?BS:F7K3X6@SlCdD2
+R0
+IWBW52nig9nTTj3d6JLB[22
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bench.v
+!i122 25
+L0 5 114
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bench.v|
+!i113 1
+R4
+R5
+vrf_bypass
+R19
+!i10b 1
+!s100 4LgVdSe7gbMC2T`XckF;P3
+R0
+IjF[EUn@`S6ZX9>bj9KP@F1
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass.v
+!i122 26
+L0 4 29
+R3
+r1
+!s85 0
+31
+Z20 !s108 1616548389.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass.v|
+!i113 1
+R4
+R5
+vrf_bypass_hier
+R19
+!i10b 1
+!s100 k^<RfgR?X<87bXb7Qn_]b1
+R0
+INCf_Y[E1Tc0e_:9^Tf06h3
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier.v
+!i122 27
+Z21 L0 7 36
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier.v|
+!i113 1
+R4
+R5
+vrf_bypass_hier_bench
+R19
+!i10b 1
+!s100 _]ALOM<aY]ZM=[OzMiZPJ2
+R0
+IZnBL5>oLD^Km1BS@eR]Pb1
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier_bench.v
+!i122 28
+L0 5 123
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier_bench.v|
+!i113 1
+R4
+R5
+vrf_hier
+R19
+!i10b 1
+!s100 mLF_SXHlcF7cPMUo<e^PQ3
+R0
+IVG173>cS=XMP^?[[;PZ1R3
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_hier.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_hier.v
+!i122 29
+R21
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_hier.v|
+!i113 1
+R4
+R5
+vshifter
+R19
+!i10b 1
+!s100 NUMCUgQCBaPdQDEc3UF_U3
+R0
+Il9m3]CXS@MK2GEN>VfX7S3
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter.v
+!i122 30
+L0 1 75
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter.v|
+!i113 1
+R4
+R5
+vshifter_hier
+Z22 !s110 1616548390
+!i10b 1
+!s100 eI42AC4iez1GfN^GfOMTT1
+R0
+I65hDUjNjUIbnf8FeigXk[1
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier.v
+!i122 31
+R11
+R3
+r1
+!s85 0
+31
+Z23 !s108 1616548390.000000
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier.v|
+!i113 1
+R4
+R5
+vshifter_hier_bench
+R22
+!i10b 1
+!s100 h0AZz:W@fac7A7SSRC@FZ0
+R0
+I>nz?Ra=XW7o_aOm<IlA0m1
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier_bench.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier_bench.v
+!i122 32
+L0 1 82
+R3
+r1
+!s85 0
+31
+R23
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier_bench.v|
+!i113 1
+R4
+R5
+vwrite_stage
+R22
+!i10b 1
+!s100 65]Iaz>49:>1zkIGF8Jl82
+R0
+IBY<[J9DNn`A>Z9cB@LXYb3
+R1
+R2
+R7
+8D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/write_stage.v
+FD:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/write_stage.v
+!i122 33
+L0 1 33
+R3
+r1
+!s85 0
+31
+R23
+!s107 D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/write_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/write_stage.v|
+!i113 1
+R4
+R5

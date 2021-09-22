@@ -1,0 +1,42 @@
+Information: Updating graph... (UID-83)
+Warning: Design 'proc' contains 2 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Information: Timing loop detected. (OPT-150)
+	fetch/data_memory/U151/A fetch/data_memory/U151/Y fetch/data_memory/U1020/A fetch/data_memory/U1020/Y fetch/data_memory/U4809/C fetch/data_memory/U4809/Y fetch/data_memory/U348/A fetch/data_memory/U348/Y decode/cu/U37/A decode/cu/U37/Y decode/cu/U93/A decode/cu/U93/Y decode/cu/U22/A decode/cu/U22/Y decode/cu/U151/A decode/cu/U151/Y decode/cu/U114/A decode/cu/U114/Y decode/cu/U113/A decode/cu/U113/Y decode/cu/U9/A decode/cu/U9/Y fetch/U52/A fetch/U52/Y 
+Information: Timing loop detected. (OPT-150)
+	fetch/data_memory/U3782/A fetch/data_memory/U3782/Y fetch/data_memory/U149/B fetch/data_memory/U149/Y decode/cu/U31/A decode/cu/U31/Y decode/cu/U40/A decode/cu/U40/Y decode/cu/U35/A decode/cu/U35/Y decode/cu/U151/B decode/cu/U151/Y decode/cu/U114/A decode/cu/U114/Y decode/cu/U113/A decode/cu/U113/Y decode/cu/U9/A decode/cu/U9/Y fetch/U52/A fetch/U52/Y 
+Warning: Disabling timing arc between pins 'A' and 'Y' on cell 'decode/cu/U9'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'Y' on cell 'fetch/data_memory/U20'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'Y' on cell 'fetch/data_memory/U19'
+         to break a timing loop. (OPT-314)
+ 
+****************************************
+Report : reference
+Design : proc
+Version: Q-2019.12-SP3
+Date   : Sun Mar 28 16:23:58 2021
+****************************************
+
+Attributes:
+    b - black box (unknown)
+   bo - allows boundary optimization
+    d - dont_touch
+   mo - map_only
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    s - synthetic operator
+    u - contains unmapped logic
+
+Reference          Library       Unit Area   Count    Total Area   Attributes
+-----------------------------------------------------------------------------
+INVX1              gscl45nm       1.407900       4      5.631600  
+decode_stage                   4211.967431       1   4211.967431  h, n
+execute_stage                  3558.701840       1   3558.701840  h
+fetch_stage                   15968.401477       1  15968.401477  h, n
+memory_stage                  15720.141819       1  15720.141819  h, n
+write_stage                     224.325396       1    224.325396  h
+-----------------------------------------------------------------------------
+Total 6 references                                  39689.169563
+1

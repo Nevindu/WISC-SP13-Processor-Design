@@ -1,0 +1,239 @@
+{D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/mux2_1.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/mux2_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2_1
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory_stage.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory_stage.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory_stage
+
+Top level modules:
+	memory_stage
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proc
+
+Top level modules:
+	proc
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fetch_stage.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fetch_stage.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fetch_stage
+
+Top level modules:
+	fetch_stage
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/register.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory2c
+
+Top level modules:
+	memory2c
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/execute_stage.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/execute_stage.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module execute_stage
+
+Top level modules:
+	execute_stage
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/write_stage.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/write_stage.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module write_stage
+
+Top level modules:
+	write_stage
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.syn.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/memory2c.syn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory2c
+
+Top level modules:
+	memory2c
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder4.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder4
+
+Top level modules:
+	fulladder4
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf_bench
+
+Top level modules:
+	rf_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf_bypass_hier_bench
+
+Top level modules:
+	rf_bypass_hier_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/decode_stage.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/decode_stage.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decode_stage
+
+Top level modules:
+	decode_stage
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/dff.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf_bypass
+
+Top level modules:
+	rf_bypass
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_hier
+
+Top level modules:
+	alu_hier
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/control.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proc_hier_bench
+
+Top level modules:
+	proc_hier_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder16.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder16
+
+Top level modules:
+	fulladder16
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder
+
+Top level modules:
+	fulladder
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shifter_hier
+
+Top level modules:
+	shifter_hier
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_hier.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_hier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf_hier
+
+Top level modules:
+	rf_hier
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/pfa.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/pfa.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pfa
+
+Top level modules:
+	pfa
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf_bypass_hier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf_bypass_hier
+
+Top level modules:
+	rf_bypass_hier
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/alu_hier_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_hier_bench
+
+Top level modules:
+	alu_hier_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/rf.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf
+
+Top level modules:
+	rf
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/onebit_fulladder_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/onebit_fulladder_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module onebit_fulladder_bench
+
+Top level modules:
+	onebit_fulladder_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/fulladder_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder_bench
+
+Top level modules:
+	fulladder_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier_bench.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/shifter_hier_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shifter_hier_bench
+
+Top level modules:
+	shifter_hier_bench
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/proc_hier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proc_hier
+
+Top level modules:
+	proc_hier
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/cla_4.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/cla_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cla_4
+
+Top level modules:
+	cla_4
+
+} {} {}} {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/clkrst.v} {1 {vlog -work work -stats=none {D:/Mac-downloads/UW Madison/Spring 2021/CS552/Project Plan/demo1/verilog/clkrst.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clkrst
+
+Top level modules:
+	clkrst
+
+} {} {}}

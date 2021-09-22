@@ -1,0 +1,1254 @@
+ 
+****************************************
+Report : hierarchy
+Design : proc
+Version: Q-2019.12-SP3
+Date   : Sun Mar 28 16:23:58 2021
+****************************************
+
+proc
+    INVX1                            gscl45nm
+    decode_stage
+        AND2X1                       gscl45nm
+        AND2X2                       gscl45nm
+        BUFX2                        gscl45nm
+        INVX1                        gscl45nm
+        INVX2                        gscl45nm
+        INVX8                        gscl45nm
+        control
+            AND2X2                   gscl45nm
+            AOI21X1                  gscl45nm
+            AOI22X1                  gscl45nm
+            BUFX2                    gscl45nm
+            INVX1                    gscl45nm
+            INVX2                    gscl45nm
+            INVX4                    gscl45nm
+            NAND3X1                  gscl45nm
+            NOR2X1                   gscl45nm
+            NOR3X1                   gscl45nm
+            OAI21X1                  gscl45nm
+            OR2X2                    gscl45nm
+        rf
+            AND2X1                   gscl45nm
+            AND2X2                   gscl45nm
+            AOI22X1                  gscl45nm
+            BUFX2                    gscl45nm
+            BUFX4                    gscl45nm
+            INVX1                    gscl45nm
+            INVX2                    gscl45nm
+            INVX4                    gscl45nm
+            INVX8                    gscl45nm
+            MUX2X1                   gscl45nm
+            NAND2X1                  gscl45nm
+            NAND3X1                  gscl45nm
+            NOR2X1                   gscl45nm
+            NOR3X1                   gscl45nm
+            OR2X2                    gscl45nm
+            register_0
+                dff_16
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_17
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_18
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_19
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_20
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_21
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_22
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_23
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_24
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_25
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_26
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_27
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_28
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_29
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_30
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_31
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+            register_1
+                dff_32
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_33
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_34
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_35
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_36
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_37
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_38
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_39
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_40
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_41
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_42
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_43
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_44
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_45
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_46
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_47
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+            register_2
+                dff_48
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_49
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_50
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_51
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_52
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_53
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_54
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_55
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_56
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_57
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_58
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_59
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_60
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_61
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_62
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_63
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+            register_3
+                dff_64
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_65
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_66
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_67
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_68
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_69
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_70
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_71
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_72
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_73
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_74
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_75
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_76
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_77
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_78
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_79
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+            register_4
+                dff_80
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_81
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_82
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_83
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_84
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_85
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_86
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_87
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_88
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_89
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_90
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_91
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_92
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_93
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_94
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_95
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+            register_5
+                dff_96
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_97
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_98
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_99
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_100
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_101
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_102
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_103
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_104
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_105
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_106
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_107
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_108
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_109
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_110
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_111
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+            register_6
+                dff_112
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_113
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_114
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_115
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_116
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_117
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_118
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_119
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_120
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_121
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_122
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_123
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_124
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_125
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_126
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_127
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+            register_7
+                dff_0
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_1
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_2
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_3
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_4
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_5
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_6
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                    NOR2X1           gscl45nm
+                dff_7
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_8
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_9
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_10
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_11
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_12
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_13
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_14
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+                dff_15
+                    AND2X1           gscl45nm
+                    DFFPOSX1         gscl45nm
+                    INVX1            gscl45nm
+    execute_stage
+        AND2X2                       gscl45nm
+        AOI21X1                      gscl45nm
+        AOI22X1                      gscl45nm
+        BUFX2                        gscl45nm
+        BUFX4                        gscl45nm
+        INVX1                        gscl45nm
+        INVX2                        gscl45nm
+        INVX4                        gscl45nm
+        INVX8                        gscl45nm
+        MUX2X1                       gscl45nm
+        NAND3X1                      gscl45nm
+        OAI21X1                      gscl45nm
+        OR2X2                        gscl45nm
+        alu
+            AND2X1                   gscl45nm
+            AND2X2                   gscl45nm
+            AOI21X1                  gscl45nm
+            AOI22X1                  gscl45nm
+            BUFX2                    gscl45nm
+            BUFX4                    gscl45nm
+            INVX1                    gscl45nm
+            INVX2                    gscl45nm
+            INVX4                    gscl45nm
+            INVX8                    gscl45nm
+            MUX2X1                   gscl45nm
+            NAND3X1                  gscl45nm
+            NOR2X1                   gscl45nm
+            NOR3X1                   gscl45nm
+            OAI21X1                  gscl45nm
+            OR2X2                    gscl45nm
+            XNOR2X1                  gscl45nm
+            XOR2X1                   gscl45nm
+            cla_4_0
+                AND2X2               gscl45nm
+                AOI21X1              gscl45nm
+                BUFX2                gscl45nm
+                INVX1                gscl45nm
+                INVX2                gscl45nm
+                NAND3X1              gscl45nm
+                NOR3X1               gscl45nm
+                OAI21X1              gscl45nm
+                pfa_0
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_1
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_2
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    INVX8            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                pfa_3
+                    INVX1            gscl45nm
+                    INVX4            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+            cla_4_1
+                AND2X2               gscl45nm
+                AOI21X1              gscl45nm
+                BUFX2                gscl45nm
+                INVX1                gscl45nm
+                INVX2                gscl45nm
+                NAND3X1              gscl45nm
+                NOR3X1               gscl45nm
+                OAI21X1              gscl45nm
+                pfa_4
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_5
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                pfa_6
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_7
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+            cla_4_2
+                AND2X2               gscl45nm
+                BUFX2                gscl45nm
+                INVX1                gscl45nm
+                INVX2                gscl45nm
+                NAND3X1              gscl45nm
+                NOR3X1               gscl45nm
+                OAI21X1              gscl45nm
+                OR2X2                gscl45nm
+                pfa_8
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                pfa_9
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_10
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_11
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+            cla_4_3
+                AND2X2               gscl45nm
+                AOI21X1              gscl45nm
+                BUFX2                gscl45nm
+                INVX1                gscl45nm
+                NAND3X1              gscl45nm
+                NOR3X1               gscl45nm
+                OAI21X1              gscl45nm
+                OR2X2                gscl45nm
+                pfa_12
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_13
+                    AND2X2           gscl45nm
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_14
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OR2X2            gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                pfa_15
+                    BUFX2            gscl45nm
+                    FAX1             gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OR2X2            gscl45nm
+                    XOR2X1           gscl45nm
+            shifter
+                AND2X2               gscl45nm
+                AOI21X1              gscl45nm
+                BUFX2                gscl45nm
+                BUFX4                gscl45nm
+                INVX1                gscl45nm
+                INVX2                gscl45nm
+                INVX4                gscl45nm
+                INVX8                gscl45nm
+                MUX2X1               gscl45nm
+                OAI21X1              gscl45nm
+                OR2X2                gscl45nm
+                mux2_1_0
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_1
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_2
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_3
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_4
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_5
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_6
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_7
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_8
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_9
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_10
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_11
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_12
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_13
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_14
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_15
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_16
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_17
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_18
+                    INVX2            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_19
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_20
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_21
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_22
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_23
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_24
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_25
+                    AND2X2           gscl45nm
+                    AOI21X1          gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_26
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_27
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_28
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_29
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_30
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_31
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_32
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_33
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_34
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_35
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_36
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                mux2_1_37
+                    AOI21X1          gscl45nm
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_38
+                    INVX2            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_39
+                    INVX2            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_40
+                    AOI22X1          gscl45nm
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_41
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_42
+                    INVX2            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_43
+                    INVX2            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_44
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_45
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_46
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OR2X2            gscl45nm
+                mux2_1_47
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_48
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_49
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_50
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_51
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_52
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_53
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                mux2_1_54
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_55
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_56
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_57
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_58
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_59
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_60
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_61
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_62
+                    INVX1            gscl45nm
+                    MUX2X1           gscl45nm
+                mux2_1_63
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+        fulladder16_0
+            fulladder4_0
+                fulladder_0
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_1
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_2
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_3
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+            fulladder4_1
+                BUFX4                gscl45nm
+                fulladder_4
+                    AND2X2           gscl45nm
+                    AOI21X1          gscl45nm
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_5
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_6
+                    AOI22X1          gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_7
+                    AND2X2           gscl45nm
+                    AOI21X1          gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+            fulladder4_2
+                fulladder_8
+                    AND2X2           gscl45nm
+                    AOI21X1          gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_9
+                    AND2X2           gscl45nm
+                    AOI21X1          gscl45nm
+                    BUFX2            gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_10
+                    AND2X2           gscl45nm
+                    AOI21X1          gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_11
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+            fulladder4_3
+                fulladder_12
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_13
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                    XOR2X1           gscl45nm
+                fulladder_14
+                    BUFX4            gscl45nm
+                    FAX1             gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    OR2X1            gscl45nm
+                    OR2X2            gscl45nm
+                fulladder_15
+                    AND2X1           gscl45nm
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    XOR2X1           gscl45nm
+    fetch_stage
+        BUFX2                        gscl45nm
+        INVX1                        gscl45nm
+        INVX8                        gscl45nm
+        MUX2X1                       gscl45nm
+        dff_128
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_129
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_130
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_131
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_132
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_133
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_134
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_135
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_136
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_137
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_138
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_139
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_140
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_141
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_142
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        dff_143
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            NOR2X1                   gscl45nm
+        fulladder16_1
+            fulladder4_4
+                fulladder_16
+                    INVX1            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_17
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_18
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_19
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+            fulladder4_5
+                fulladder_20
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_21
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_22
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_23
+                    INVX2            gscl45nm
+                    NAND2X1          gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+            fulladder4_6
+                fulladder_24
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_25
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_26
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_27
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+            fulladder4_7
+                fulladder_28
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_29
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_30
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    INVX2            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+                fulladder_31
+                    AND2X2           gscl45nm
+                    INVX1            gscl45nm
+                    OAI21X1          gscl45nm
+                    XNOR2X1          gscl45nm
+        memory2c_1
+            AND2X1                   gscl45nm
+            AND2X2                   gscl45nm
+            AOI21X1                  gscl45nm
+            AOI22X1                  gscl45nm
+            BUFX2                    gscl45nm
+            BUFX4                    gscl45nm
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            INVX2                    gscl45nm
+            INVX4                    gscl45nm
+            INVX8                    gscl45nm
+            MUX2X1                   gscl45nm
+            NAND2X1                  gscl45nm
+            NAND3X1                  gscl45nm
+            NOR2X1                   gscl45nm
+            NOR3X1                   gscl45nm
+            OAI21X1                  gscl45nm
+            OR2X1                    gscl45nm
+            OR2X2                    gscl45nm
+            XNOR2X1                  gscl45nm
+            XOR2X1                   gscl45nm
+    memory_stage
+        AND2X2                       gscl45nm
+        AOI21X1                      gscl45nm
+        BUFX2                        gscl45nm
+        BUFX4                        gscl45nm
+        INVX1                        gscl45nm
+        INVX2                        gscl45nm
+        NOR3X1                       gscl45nm
+        OAI21X1                      gscl45nm
+        OR2X1                        gscl45nm
+        OR2X2                        gscl45nm
+        XOR2X1                       gscl45nm
+        memory2c_0
+            AND2X1                   gscl45nm
+            AND2X2                   gscl45nm
+            AOI21X1                  gscl45nm
+            AOI22X1                  gscl45nm
+            BUFX2                    gscl45nm
+            BUFX4                    gscl45nm
+            DFFPOSX1                 gscl45nm
+            INVX1                    gscl45nm
+            INVX2                    gscl45nm
+            INVX4                    gscl45nm
+            INVX8                    gscl45nm
+            MUX2X1                   gscl45nm
+            NAND2X1                  gscl45nm
+            NAND3X1                  gscl45nm
+            NOR2X1                   gscl45nm
+            NOR3X1                   gscl45nm
+            OAI21X1                  gscl45nm
+            OR2X1                    gscl45nm
+            OR2X2                    gscl45nm
+            XNOR2X1                  gscl45nm
+            XOR2X1                   gscl45nm
+    write_stage
+        AND2X2                       gscl45nm
+        AOI22X1                      gscl45nm
+        BUFX2                        gscl45nm
+        INVX1                        gscl45nm
+        INVX4                        gscl45nm
+        INVX8                        gscl45nm
+        NAND3X1                      gscl45nm
+        OAI21X1                      gscl45nm
+        OR2X2                        gscl45nm
+1

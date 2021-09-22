@@ -1,0 +1,49 @@
+ 
+****************************************
+Report : cell
+Design : proc
+Version: Q-2019.12-SP3
+Date   : Tue Apr 13 07:25:11 2021
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+EXMEM                     exmem_pipeline                  523.269488
+                                                                    h, n
+IDEX                      idex_pipeline                   1564.176863
+                                                                    h, n
+IFID                      ifid_pipeline                   675.322687
+                                                                    h, n
+MEMWB                     memwb_pipeline                  439.734089
+                                                                    h, n
+U4                        INVX2           gscl45nm        1.877200  
+U5                        BUFX2           gscl45nm        2.346500  
+U6                        INVX1           gscl45nm        1.407900  
+U7                        INVX1           gscl45nm        1.407900  
+U8                        BUFX2           gscl45nm        2.346500  
+U9                        BUFX2           gscl45nm        2.346500  
+U10                       BUFX2           gscl45nm        2.346500  
+U11                       BUFX2           gscl45nm        2.346500  
+U12                       INVX1           gscl45nm        1.407900  
+U13                       INVX1           gscl45nm        1.407900  
+U14                       INVX1           gscl45nm        1.407900  
+decode                    decode_stage                    4964.724603
+                                                                    h, n
+execute                   execute_stage                   4127.962731
+                                                                    h
+fetch                     fetch_stage                     14881.033421
+                                                                    h, n
+memory                    memory_stage                    13182.167473
+                                                                    h, n
+write                     write_stage                     111.224100
+                                                                    h
+--------------------------------------------------------------------------------
+Total 20 cells                                            40490.264655
+1
